@@ -1,17 +1,27 @@
 {
-  "name": "starter-node-angular",
+  "name": "Project1",
   "version": "1.0.0",
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "font-awesome": "^4.5.0",
-    "animate.css": "^3.5.1",
     "angular": "^1.5.0",
-    "angular-route": "^1.5.0"
+    "angular-route": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
   },
-  "resolutions": {
-    "angular": "1.3.13"
-  },
-  "devDependencies": {
-    "angular-ui-grid": "~3.0.0-rc.20"
-  }
+  "homepage": "https://github.com/sandeep206/Project1",
+  "authors": [
+    "sandy <sandeepsasidharan206@gmail.com>"
+  ],
+  "description": "sample project using MEAN stack",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
 }
